@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import React ,{useRef} from 'react'
-import './addnew.css'
+import './AddNew.css'
 
 function AddNew() {
 
