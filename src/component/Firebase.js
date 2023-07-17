@@ -4,7 +4,7 @@ import { getFirestore } from 'firebase/firestore/lite';
     const firebaseConfig = {
         apiKey: "AIzaSyD1y-PtLbGeRi49PSsEm6mselFALBoqsIs",
         authDomain: "project-bd1df.firebaseapp.com",
-        databaseURL: "https://project-bd1df-default-rtdb.firebaseio.com",
+        databaseURL: "https://project-bd1df-default-rtdb.firebaseio.com/",
         projectId: "project-bd1df",
         storageBucket: "project-bd1df.appspot.com",
         messagingSenderId: "620350236071",
